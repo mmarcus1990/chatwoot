@@ -217,7 +217,7 @@ export default {
 
 <style lang="scss" scoped>
 .woot-sidebar {
-  background: var(--white);
+  background: var(--red);
   display: flex;
   min-height: 0;
   height: 100%;

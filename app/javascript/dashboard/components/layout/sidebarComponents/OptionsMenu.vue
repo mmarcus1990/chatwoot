@@ -84,7 +84,7 @@
             variant="clear"
             color-scheme="secondary"
             size="small"
-            icon="power"
+            icon="keyboard"
             @click="logout"
           >
             {{ $t('SIDEBAR_ITEMS.LOGOUT') }}
